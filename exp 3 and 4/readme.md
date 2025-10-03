@@ -62,8 +62,11 @@ The goal of this project is to classify SMS messages into **spam** and **ham** c
 
 ---
 
-## Results| Source             | Model                         | Vectorizer   | λ    | Accuracy | Precision | Recall  | F1     |
-|-------------------|-------------------------------|-------------|------|----------|-----------|---------|--------|
+## Results
+
+
+| Source             | Model                         | Vectorizer  | λ    | Accuracy | Precision | Recall  | F1     |
+|--------------------|-------------------------------|-------------|------|----------|-----------|---------|--------|
 | Logistic Scratch   | Logistic Regression           | Count       | 0.0  | 0.9777   | 0.9134    | 0.9062  | 0.9098 |
 | Logistic Scratch   | Logistic Regression           | Count       | 0.01 | 0.9806   | 0.9286    | 0.9141  | 0.9213 |
 | Logistic Scratch   | Logistic Regression           | Count       | 0.1  | 0.9777   | 0.9134    | 0.9062  | 0.9098 |
