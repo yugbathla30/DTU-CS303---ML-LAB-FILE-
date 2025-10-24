@@ -1,0 +1,3 @@
+Dataset,Best k,Accuracy
+Iris,1,100.00%
+Wine,3,80.00%
